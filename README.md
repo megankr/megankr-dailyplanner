@@ -20,6 +20,6 @@ No image at this time.
 
 Currently, any JavaScript aside from lines 4-5 were worked on with TA Steven Castro.
 
-##License
+## License
 
 N/A
