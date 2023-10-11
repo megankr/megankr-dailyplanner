@@ -1,4 +1,5 @@
 # megankr-dailyplanner
+
 A repository for the U of M Coding Bootcamp Challenge 4, a daily planner webpage.
 
 ## Description
@@ -14,3 +15,11 @@ N/A
 Live URL: https://megankr.github.io/megankr-dailyplanner/
 
 No image at this time.
+
+## Credits
+
+Currently, any JavaScript aside from lines 4-5 were worked on with TA Steven Castro.
+
+##License
+
+N/A
